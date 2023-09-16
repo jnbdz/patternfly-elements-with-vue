@@ -31,3 +31,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Resources
+### Articles
+- [Using PatternFly Elements (web components) in your Vue App](https://medium.com/patternfly-elements/using-patternfly-elements-web-components-in-your-vue-app-340fc9a9d7e)
