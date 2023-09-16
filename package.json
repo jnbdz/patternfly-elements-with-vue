@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@patternfly/elements": "^2.4.0",
     "@patternfly/pfe-accordion": "^1.0.0",
     "@patternfly/pfe-card": "^1.0.0",
     "@patternfly/pfe-cta": "^1.0.0",
